@@ -1,15 +1,10 @@
-# Kanap #
+# Refactorisation du code du projet Kanap avec classe et architecture MVC  
 
-This is the front end and back end server for Project 5 of the Web Developer path.
+Projet personnel de refactorisation du code de mon projet 5 d'openclasseroom "Kanap" avec une architecture modèle-vue-contrôleur.
 
-### Back end Prerequisites ###
 
-You will need to have Node and `npm` installed locally on your machine.
-
-### Back end Installation ###
-
-Clone this repo. From the "back" folder of the project, run `npm install`. You 
-can then run the server with `node server`. 
-The server should run on `localhost` with default port `3000`. If the
-server runs on another port for any reason, this is printed to the
-console when the server starts, e.g. `Listening on port 3001`.
+### Prérequis pour le fonctionnement du back-end
+- Node.js et npm doivent être installé  
+- À partir du back-end executer la commande `npm install`
+- Démarrer le serveur avec la commande `node server`
+- Le serveur doit fonctionner sur `localhost` avec le port par défaut `3000`
